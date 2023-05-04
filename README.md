@@ -1,10 +1,12 @@
 # Hi, I’m Ibtisam! 👋
+I have a passion for technology and a background in project management, operations management, marketing and legal work. I'm an avid learner and always seeking to expand my knowledge and skills in fields such as machine learning, data analysis, and software development. 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ima-projects&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
 <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ima-projects&layout=compact">
 
-
+## Currently Working On...
+### Building a Java REST API with Spring Boot
 
 ## Languages
 
