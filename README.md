@@ -2,7 +2,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ima-projects&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ima-projects&layout=compact">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ima-projects&layout=compact">
 
 
 
