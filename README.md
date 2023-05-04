@@ -2,7 +2,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ima-projects&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ima-projects&layout=compact">
+<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ima-projects&layout=compact">
 
 
 
@@ -21,3 +21,6 @@
 
 ## Data Visualization
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+## IDEs/Editors
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
